@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Welcome All
 subtitle:
-description:
+description: Love my love. Do what I want to do!
 keywords:
-author: John Doe
+author: T.B-Arivn
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://t-b-arivn.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
